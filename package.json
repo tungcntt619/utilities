@@ -1,0 +1,19 @@
+{
+  "name": "@skley/utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungcntt619/utilities.git"
+  },
+  "author": "Tung Tran",
+  "license": "ISC",
+  "bugs": {t
+    "url": "https://github.com/tungcntt619/utilities/issues"
+  },
+  "homepage": "https://github.com/tungcntt619/utilities#readme"
+}
